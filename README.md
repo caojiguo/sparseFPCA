@@ -1,4 +1,4 @@
-# sparseFPCA
+# Sparse Functional Principal Component Analysis in a New Regression Framework
 
 1. code_supple.R is the R code for running one simulation.
 2. fscad.R is the R function for running our proposed sparse FPCA.
